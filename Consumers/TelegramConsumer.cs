@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Bondisoft.AzureFunctions.HayFigus.Model;
 using Bondisoft.AzureFunctions.HayFigus.Producers;
 using Microsoft.Extensions.Configuration;
 using Telegram.Bot;

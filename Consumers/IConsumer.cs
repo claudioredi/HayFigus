@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
+using Bondisoft.AzureFunctions.HayFigus.Model;
 using Bondisoft.AzureFunctions.HayFigus.Producers;
 
 namespace Bondisoft.AzureFunctions.HayFigus.Consumers

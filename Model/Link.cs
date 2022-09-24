@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Bondisoft.AzureFunctions.HayFigus.Producers
+namespace Bondisoft.AzureFunctions.HayFigus.Model
 {
     public class Link
     {

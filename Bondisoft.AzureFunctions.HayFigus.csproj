@@ -20,6 +20,7 @@
     <None Remove="Consumers\" />
     <None Remove="Microsoft.Azure.Functions.Extensions" />
     <None Remove="Microsoft.Extensions.DependencyInjection" />
+    <None Remove="Model\" />
   </ItemGroup>
   <ItemGroup>
     <None Update="host.json">
@@ -33,5 +34,6 @@
   <ItemGroup>
     <Folder Include="Producers\" />
     <Folder Include="Consumers\" />
+    <Folder Include="Model\" />
   </ItemGroup>
 </Project>
