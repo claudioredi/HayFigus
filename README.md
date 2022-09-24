@@ -7,6 +7,6 @@ HayFigus es una function de Azure que corre cada 30 segundos. Contiene un web sc
 ## Configuraciones
 **ScrapperUrl**: Url usada por el scrapper para chequear el estado de las publicaciones
 
-**TelegramBotId**: Bot usado para publicar mensajes en el canal
+**TelegramBotId**: Bot usado para publicar mensajes en el chat.
 
 **TelegramChatId**: Chat donde se publican las alertas de stock disponible. Tiene que ser un canal or grupo para que todo esto tenga sentido.
