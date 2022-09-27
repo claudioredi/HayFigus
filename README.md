@@ -2,7 +2,7 @@
 Alertas sobre stock disponible de figuritas del mundial Qatar 2022 en la web de Panini
 
 ## Como funciona?
-HayFigus es una function de Azure que corre cada 30 segundos. Contiene un web scrapper que chequea la web de Panini Argentina buscando stock en las publicaciones. Las publicaciones son enviadas a un chat de Telegram a traves de un bot para ser consumidas por los subscriptores.
+HayFigus es una function de Azure que corre periodicamente. Contiene un web scrapper que chequea la web de Panini Argentina buscando stock en las publicaciones. Las publicaciones son enviadas a un chat de Telegram a traves de un bot para ser consumidas por los subscriptores.
 
 ## Configuraciones
 **ScrapperUrl**: Url usada por el scrapper para chequear el estado de las publicaciones
